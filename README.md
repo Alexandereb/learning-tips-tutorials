@@ -1,4 +1,4 @@
-# learning-tips-tutorials
+# learning, tips and tutorials
 In this repository I have differents courses, tutoriales, tips or anything related with code and the learning.
 
 ### Nodeschool
